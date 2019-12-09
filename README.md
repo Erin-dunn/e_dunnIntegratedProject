@@ -13,3 +13,4 @@ Rice Cooker Benefits
 Best Way to Crack an egg 
 
 This food blog is a place for students and individuals who can't cook to save their lives, with our innovative recipes and tips, you can solve all your food problems. 
+<img src="images/logo.png" alt="logo" >
