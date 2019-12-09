@@ -41,7 +41,15 @@ h2{
   margin:55px;
   padding:0;
 }
-
+.section4{
+  margin:55px;
+  padding:0;
+}
+}
+.section2{
+  margin:55px;
+  padding:0;
+}
 .container {
 	width: 80%;
 	margin: 0 auto;
@@ -134,20 +142,5 @@ margin:auto;
 .gallery img:hover {
   filter:grayscale(100%);
 
-  transform: scale(1.1);
-}
-
-.MEGAIMAGE{
-  margin: 150px;
-}
-
-.MEGAIMAGE img {
-  transition: 1s
-  padding: 50px;
-  width: 200px;
-}
-
-.MEGAIMAGE img:hover {
-  filter:grayscale(100%);
   transform: scale(1.1);
 }
